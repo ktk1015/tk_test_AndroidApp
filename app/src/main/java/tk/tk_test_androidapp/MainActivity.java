@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class MainActivity extends Activity implements View.OnClickListener{
 
-    Button asyncTask_btn;
+    Button asyncTask_btn,arrayAdapter_btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +19,8 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
         Button asyncTask_btn = (Button)findViewById(R.id.ayncTask_btn);
         asyncTask_btn.setOnClickListener(this);
+        Button arrayAdapter_btn = (Button)findViewById(R.id.arrayAdapter_btn);
+        arrayAdapter_btn.setOnClickListener(this);
     }
 
 
@@ -29,6 +31,9 @@ public class MainActivity extends Activity implements View.OnClickListener{
                 Intent i = new Intent(this,AsyncTaskActivity.class);
                 startActivity(i);
                 break;
+            case R.id.arrayAdapter_btn:
+                Intent i2 = new Intent(this,ArrayAdapterActivity.class);
+                startActivity(i2);
         }
     }
 }

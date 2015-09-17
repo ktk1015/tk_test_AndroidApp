@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
+        jar="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\pre-dexed\debug\classes-e95f2068cc8ac3d21c61d5e219abed39aeb10c0d.jar" />
+    </item>
+    <item
         jar="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
         <dex dex="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-16a72908eec8b890ef577327dd7893daec3fcad3.jar" />
-    </item>
-    <item
-        jar="C:\Users\P16099\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-7bc1e1254875bdf0567e3c676c0d088f310afd76.jar" />
     </item>
     <item
         jar="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
@@ -23,11 +23,11 @@
         <dex dex="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\pre-dexed\debug\classes-08ba68f74744ee19eae332c4e976e308cbc101cb.jar" />
     </item>
     <item
-        jar="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jar="C:\Users\P16099\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\pre-dexed\debug\classes-e95f2068cc8ac3d21c61d5e219abed39aeb10c0d.jar" />
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\GitHub\tk_test_AndroidApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-7bc1e1254875bdf0567e3c676c0d088f310afd76.jar" />
     </item>
 
 </items>
